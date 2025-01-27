@@ -26,9 +26,17 @@ body{
 .black{
     background-color: black;
 }
-
+#t :hover{
+    background-color: coral;
+}
+#m :hover{
+    background-color: chartreuse;
+}
+#r :hover{
+    background-color: blue;
+}
 #am :hover{
-background-color: brown;
+background-color: rgb(61, 11, 11);
 }
 .box:hover{
     background-color: aqua;
