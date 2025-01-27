@@ -1,0 +1,28 @@
+
+body{
+    width: 800px;
+    height: 800px;
+    background-color: white;
+    margin: 30px auto;
+}
+.row{
+    width: 100%;
+    float: left;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    float: left;
+    font-size: 80px;
+    color: brown;
+}
+.black{
+    background-color: black;
+}
+
+
+.box:hover{
+    background-color: aqua;
+}
+
+
